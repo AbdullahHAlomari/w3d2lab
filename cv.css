@@ -58,21 +58,18 @@ ul li {
 }
 
 .mycards .img-one {
-  background-image: url("img/tac.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .mycards .img-two {
-  background-image: url("img/tac.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .mycards .img-three {
-  background-image: url("img/tac.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
